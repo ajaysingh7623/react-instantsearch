@@ -1,5 +1,5 @@
 {
-  "version": "6.8.2",
+  "version": "6.6.0",
   "private": true,
   "license": "MIT",
   "workspaces": [
@@ -103,7 +103,7 @@
     "json": "9.0.6",
     "lerna": "3.16.4",
     "lodash.orderby": "4.6.0",
-    "mversion": "1.13.0",
+    "mversion": "2.0.0",
     "nock": "11.7.2",
     "null-loader": "3.0.0",
     "places.js": "1.16.4",
@@ -113,8 +113,8 @@
     "react": "16.8.6",
     "react-autosuggest": "9.4.3",
     "react-dom": "16.8.6",
-    "react-instantsearch-dom": "6.7.0",
-    "react-instantsearch-dom-maps": "6.7.0",
+    "react-instantsearch-dom": "6.6.0",
+    "react-instantsearch-dom-maps": "6.6.0",
     "react-native": "0.58.4",
     "react-test-renderer": "16.8.6",
     "rheostat": "2.2.0",
@@ -142,15 +142,15 @@
     },
     {
       "path": "packages/react-instantsearch/dist/umd/Dom.min.js",
-      "maxSize": "34.45 kB"
+      "maxSize": "34.30 kB"
     },
     {
       "path": "packages/react-instantsearch-core/dist/umd/ReactInstantSearchCore.min.js",
-      "maxSize": "25.50 kB"
+      "maxSize": "25.35 kB"
     },
     {
       "path": "packages/react-instantsearch-dom/dist/umd/ReactInstantSearchDOM.min.js",
-      "maxSize": "37.05 kB"
+      "maxSize": "36.90 kB"
     },
     {
       "path": "packages/react-instantsearch-dom-maps/dist/umd/ReactInstantSearchDOMMaps.min.js",
